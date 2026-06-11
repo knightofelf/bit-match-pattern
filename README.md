@@ -5,10 +5,15 @@
 </head>
 <body>
   <h2>비트 재귀수열 숫자 찾기 공식</h2>
-
+ 
   <p>✅ 비트 = 자릿수 증가 발산 + 앞자리 공통비트 제거 + 재귀수열 (비트 매칭 대칭 반복패턴)</p>
   <p>✅ Bit = digit‑growth divergence + prefix‑bit elimination + recursive sequence (bit‑matching symmetric repetition pattern)</p>
   <p>"비트는 자릿수가 늘어나는 발산 속에서, 앞자리 공통 비트를 제거하면 이전 비트 패턴이 그대로 대칭 반복되는 재귀 구조입니다."</p>
+
+  <p>✅ 컴퓨터 I/O 대량 버퍼 = 구색을 갖추고. 한팩씩 모은데를 알려 주세요. ㅇ_ㅇ;;</p>
+  <p>✅ PI = 3.141592...</p>
+  <p>✅ rand () % 2 ~ 8</p>
+  <p>✅ GetTickCount () % 2 ~ 8</p>
 
   <pre>
 04  100    
